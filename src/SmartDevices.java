@@ -3,7 +3,7 @@ import org.w3c.dom.ls.LSOutput;
 import java.sql.SQLOutput;
 import java.util.Scanner; //
 
-public class Helloworld {
+public class SmartDevices {
     public static void main(String[] args) {
         Scanner user = new Scanner(System.in);
         int select;
